@@ -144,6 +144,8 @@ barcolors[3] = colorCategorizer(bar4)
 
 print(barcolors[0], barcolors[1], barcolors[2], barcolors[3])
 
+ #test comment
+
 logicValue = True
 
 counter = 0
